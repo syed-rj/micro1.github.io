@@ -1,0 +1,13 @@
+.footer{
+    /* width: 100vw;
+    height:30vh ; */
+    background-color: #212121
+  }
+  .footer{
+    display: flex;
+  
+    justify-content: space-evenly;
+  }
+  .left-footer{
+    padding-right: 250px;
+  }

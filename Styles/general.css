@@ -1,0 +1,33 @@
+*{
+    
+    margin: 0;
+  }
+
+  button{
+    color: white;
+    background-color: black;
+    width: 120px;
+    height: 58px;
+    border-radius:12px;
+    vertical-align: top;
+    
+  }
+  input{
+    width:300px;
+    height: 50px;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: black;
+  }
+  input::placeholder{
+  
+  font-size: x-large; 
+  font-weight: 600;
+  }
+p{
+color: white;
+font-family: Roboto,sans-serif;
+line-height: 40px;
+
+}
